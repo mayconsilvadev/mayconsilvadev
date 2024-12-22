@@ -1,20 +1,20 @@
-<h2 align="center">Olá!👋 Sejam bem vindos ao meu GitHub!</h2>
+<h2 align="center">Hello!👋 Welcome to my GitHub!</h2>
 
 ###
 
-<p align="left">Meu nome é Maycon Silva, sou um desenvolvedor de software em formação. 👨‍💻</p>
+<p align="left">My name is Maycon Silva, I'm a software developer in training. 👨‍💻</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo HTML, CSS, JavaScript, React, React Native e entre outros.</p>
+<p align="left">📚 I'm currently learning HTML, CSS, JavaScript, React, React Native and others.</p>
 
 ###
 
-<h2 align="left">Eu codifico com</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Redes sociais</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
