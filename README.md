@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently learning HTML, CSS, JavaScript, React, React Native and others.</p>
+<p align="left">📚 I'm currently learning HTML, CSS, JavaScript, React, React Native and others.
+Rocketseat React Native Training Course</p>
 
 ###
 
